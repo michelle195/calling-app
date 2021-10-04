@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calling-app/static/css/main.8563fccb.chunk.css",
+    "main.js": "/calling-app/static/js/main.23dfcefa.chunk.js",
+    "main.js.map": "/calling-app/static/js/main.23dfcefa.chunk.js.map",
+    "runtime-main.js": "/calling-app/static/js/runtime-main.7696e665.js",
+    "runtime-main.js.map": "/calling-app/static/js/runtime-main.7696e665.js.map",
+    "static/js/2.ba4ea6bc.chunk.js": "/calling-app/static/js/2.ba4ea6bc.chunk.js",
+    "static/js/2.ba4ea6bc.chunk.js.map": "/calling-app/static/js/2.ba4ea6bc.chunk.js.map",
+    "static/js/3.5e8283c3.chunk.js": "/calling-app/static/js/3.5e8283c3.chunk.js",
+    "static/js/3.5e8283c3.chunk.js.map": "/calling-app/static/js/3.5e8283c3.chunk.js.map",
+    "index.html": "/calling-app/index.html",
+    "static/css/main.8563fccb.chunk.css.map": "/calling-app/static/css/main.8563fccb.chunk.css.map",
+    "static/js/2.ba4ea6bc.chunk.js.LICENSE.txt": "/calling-app/static/js/2.ba4ea6bc.chunk.js.LICENSE.txt",
+    "static/media/phone.5396b733.png": "/calling-app/static/media/phone.5396b733.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7696e665.js",
+    "static/js/2.ba4ea6bc.chunk.js",
+    "static/css/main.8563fccb.chunk.css",
+    "static/js/main.23dfcefa.chunk.js"
+  ]
+}
